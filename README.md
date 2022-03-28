@@ -11,3 +11,7 @@ Your own unique website can be your identity on the Internet! You can use it to 
 3. Edit `index.html` and put stuff there.
 4. (Optional) [Point your domain to Github](https://help.github.com/articles/using-a-custom-domain-with-github-pages/).
 
+## My Plan
+
+* Create a page for my book: Divorce Shariah Style
+* Figure out what else I want to do
