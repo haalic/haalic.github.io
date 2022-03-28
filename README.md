@@ -14,6 +14,6 @@ Your own unique website can be your identity on the Internet! You can use it to 
 ## My Plan
 
 * Create a page for my book: Divorce Shariah Style
-* Figure out what else I want to do
+* To pring yuşak G and g, I go search print it: Ğ and ğ
 * I want to make a new page for the original book in Turkish; Çattan Çağlayana
-* 
+* Figure out what else I want to do
