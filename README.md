@@ -15,5 +15,5 @@ Your own unique website can be your identity on the Internet! You can use it to 
 
 * Create a page for my book: Divorce Shariah Style,Tales of Rebelious Women of Anatolia 
 * To print yumuşak G and g, I go search print it: Ğ and ğ
-* I want to make a new page for the original book in Turkish: Yitik Kültür Ağıt, Çat'tan Çağlayana, Türkmen Köyünün Romanı
+* I want to make a new page for the original book in Turkish: Yitik Kültüre Ağıt, Çat'tan Çağlayana, Türkmen Köyünün Romanı
 * Figure out what else I want to do
