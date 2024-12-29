@@ -1,7 +1,7 @@
 # Hasan's site
 ## My Plan
 
-* Create a page for my book: Divorce Shariah Style,Tales of Rebelious Women of Anatolia 
+* Create a page for my book: Divorce Shariah Style, Tales of Rebelious Women of Anatolia 
 * To print yumuşak G and g, I go search print it: Ğ and ğ
 * I want to make a new page for the original book in Turkish: Yitik Kültüre Ağıt, Çat'tan Çağlayana, Bir Türkmen Köyünün Romanı
  
